@@ -4,7 +4,7 @@
 - 30 minutes/week
 - 1 hour/weekend
 
-## 독서 목록
+## Book List
 
 | No | Title | Author | Begin | End |  Check(✅) | 
 | :--: | :--: | :--: | :--: | :--: | :--: | 
