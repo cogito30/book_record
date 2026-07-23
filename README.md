@@ -1,6 +1,10 @@
 # 독서 기록
 
-## 예정
+## Plan
+- 30 minutes/week
+- 1 hour/weekend
+
+## 독서 목록
 
 | No | Title | Author | Begin | End |  Check(✅) | 
 | :--: | :--: | :--: | :--: | :--: | :--: | 
