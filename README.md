@@ -1,8 +1,8 @@
 # 독서 기록
 
 ## Plan
-- 30 minutes/week
-- 1 hour/weekend
+- (Min) 4 hour/day(weekend)
+- (Max) 7 hour/day(weekend)
 
 ## Book List
 
