@@ -13,7 +13,7 @@
 
 | No | Title | Begin | End |  Time(hour:min:sec) | Pass/Fail | 
 | :--: | :--: | :--: | :--: | :--: | :--: | 
-| Sat(08.01) | 아르바이트 | X | X | X | Fail(❌) | 
+| Sat(08.01) | 알바 | X | X | X | Fail(❌) | 
 | Sun(08.02) | 현명한 존재는 무리에 섞이지 않는다(군중심리) | Part1 | Part3 | 05:42:51 | Pass(✅) | 
 | Sun(08.02) | 물리법칙의 특성 | Chapter01 | Chapter02 | 00:41:07 | Pass(✅) | 
 
@@ -22,8 +22,9 @@
 
 | No | Title | Begin | End |  Time(hour:min:sec) | Pass/Fail | 
 | :--: | :--: | :--: | :--: | :--: | :--: | 
-| Sat(08.08) |  |  |  |  |  | 
-| Sun(08.09) |  |  |  |  |  | 
+| Sat(08.08) | 알바 | X | X | X | Fail(❌) | 
+| Sun(08.09) | 과학이란 무엇인가 | Part1 | Part2 | 02:32:57 | Pass(✅) | 
+| Sun(08.09) | 학문의 즐거움 |  |  |  |  | 
 
 
 ## 8월 3주차
