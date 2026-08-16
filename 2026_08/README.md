@@ -34,7 +34,7 @@
 | No | Title | Begin | End |  Time(hour:min:sec) | Pass/Fail | 
 | :--: | :--: | :--: | :--: | :--: | :--: | 
 | Sat(08.15) | 오자병법 | ch01 | ch01 | 01:00:00 | Fail(❌) | 
-| Sun(08.16) | GREAT AGAIN | part01 | part17 |  | Pass(✅) | 
+| Sun(08.16) | GREAT AGAIN | part01 | part17 | 04:15:30 | Pass(✅) | 
 | Sun(08.16) |  |  |  |  |  | 
 
 ## 8월 4주차
