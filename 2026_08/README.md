@@ -42,6 +42,7 @@
 
 | No | Title | Begin | End |  Time(hour:min:sec) | Pass/Fail | 
 | :--: | :--: | :--: | :--: | :--: | :--: | 
+| Mon(08.17) | 오자병법 | ch03 | ch03 | 01:00:00 | Bonus(➕) | 
 | Sat(08.22) |  |  |  |  |  | 
 | Sun(08.23) |  |  |  |  |  | 
 
