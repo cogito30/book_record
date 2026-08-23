@@ -3,6 +3,7 @@
 ## Plan
 - (Min) 4 hour/day(weekend)
 - (Max) 7 hour/day(weekend)
+- 챕터별 주요 문장 요약
 
 ## Book List
 
