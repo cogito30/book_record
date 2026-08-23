@@ -9,6 +9,14 @@
 
 
 ## 10월 1주차
+- Term: 2026.10.03-2026.10.04
+
+| No | Title | Begin | End |  Time(hour:min:sec) | Pass/Fail | 
+| :--: | :--: | :--: | :--: | :--: | :--: | 
+| Sat(10.03) |  |  |  |  |  | 
+| Sun(10.04) |  |  |  |  |  | 
+
+## 10월 2주차
 - Term: 2026.10.10-2026.10.11
 
 | No | Title | Begin | End |  Time(hour:min:sec) | Pass/Fail | 
@@ -16,7 +24,7 @@
 | Sat(10.10) |  |  |  |  |  | 
 | Sun(10.11) |  |  |  |  |  | 
 
-## 10월 2주차
+## 10월 3주차
 - Term: 2026.10.17-2026.10.18
 
 | No | Title | Begin | End |  Time(hour:min:sec) | Pass/Fail | 
@@ -24,7 +32,7 @@
 | Sat(10.17) |  |  |  |  |  | 
 | Sun(10.18) |  |  |  |  |  | 
 
-## 10월 3주차
+## 10월 4주차
 - Term: 2026.10.24-2026.10.25
 
 | No | Title | Begin | End |  Time(hour:min:sec) | Pass/Fail | 
@@ -32,7 +40,7 @@
 | Sat(10.24) |  |  |  |  |  | 
 | Sun(10.25) |  |  |  |  |  | 
 
-## 10월 4주차
+## 10월 5주차
 - Term: 2026.10.31-2026.11.01
 
 | No | Title | Begin | End |  Time(hour:min:sec) | Pass/Fail | 
