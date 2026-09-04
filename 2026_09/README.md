@@ -11,10 +11,10 @@
 ## 9월 1주차
 - Term: 2026.09.05-2026.09.06
 
-| No | Title | Begin | End |  Time(hour:min:sec) | Pass/Fail | 
+| No | Title | Chapter |  Time(hour:min:sec) | Pass/Fail | 
 | :--: | :--: | :--: | :--: | :--: | :--: | 
-| Sat(09.05) | 프로파간다 |  |  |  |  | 
-| Sun(09.06) |  |  |  |  |  | 
+| Sat(09.05) | 프로파간다 |  |  |  | 
+| Sun(09.06) |  |  |  |  | 
 
 ## 9월 2주차
 - Term: 2026.09.12-2026.09.13
