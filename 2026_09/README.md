@@ -41,15 +41,26 @@
 ## 9월 3주차
 - Term: 2026.09.19-2026.09.20
 
-| No | Title | Begin | End |  Time(hour:min:sec) | Pass/Fail | 
-| :--: | :--: | :--: | :--: | :--: | :--: | 
-| Sat(09.19) |  |  |  |  |  | 
-| Sun(09.20) |  |  |  |  |  | 
+| Date |  Total Time | Pass/Fail | 
+| :--: | :--: | :--: | 
+| Sat(09.19) |  |  | 
+| Sun(09.20) |  |  | 
+
+| No | Title | Chapter |  Time(hour:min:sec) | 
+| :--: | :--: | :--: | :--: | 
+| Sat(09.19) |  |  |  | 
+| Sun(09.20) |  |  |  | 
+
 
 ## 9월 4주차
 - Term: 2026.09.26-2026.09.27
 
-| No | Title | Begin | End |  Time(hour:min:sec) | Pass/Fail | 
-| :--: | :--: | :--: | :--: | :--: | :--: | 
-| Sat(09.26) |  |  |  |  |  | 
-| Sun(09.27) |  |  |  |  |  | 
+| Date |  Total Time | Pass/Fail | 
+| :--: | :--: | :--: | 
+| Sat(09.26) |  |  |  
+| Sun(09.27) |  |  | 
+
+| No | Title | Chapter |  Time(hour:min:sec) | 
+| :--: | :--: | :--: | :--: | 
+| Sat(09.26) |  |  |  | 
+| Sun(09.27) |  |  |  | 
