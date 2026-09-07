@@ -17,7 +17,7 @@
 | Sat(09.05) | 00:44:00 | Fail(❌) | 
 | Sun(09.06) | 01:08:32 | Fail(❌) | 
 
-| No | Title | Chapter |  Time(hour:min:sec) | 
+| Date | Title | Chapter |  Time(hour:min:sec) | 
 | :--: | :--: | :--: | :--: | 
 | Sat(09.05) | 프로파간다 | 교육을 위한 선전 | 00:44:00 | 
 | Sun(09.06) | 프로파간다 |  | 00:43:02 | 
@@ -33,7 +33,7 @@
 | Sat(09.12) |  |  |  
 | Sun(09.13) |  |  |  
 
-| No | Title | Chapter |  Time(hour:min:sec) | 
+| Date | Title | Chapter |  Time(hour:min:sec) | 
 | :--: | :--: | :--: | :--: | 
 | Sat(09.12) |  |  |  | 
 | Sun(09.13) |  |  |  | 
@@ -48,7 +48,7 @@
 | Sat(09.19) |  |  | 
 | Sun(09.20) |  |  | 
 
-| No | Title | Chapter |  Time(hour:min:sec) | 
+| Date | Title | Chapter |  Time(hour:min:sec) | 
 | :--: | :--: | :--: | :--: | 
 | Sat(09.19) |  |  |  | 
 | Sun(09.20) |  |  |  | 
@@ -63,7 +63,7 @@
 | Sat(09.26) |  |  |  
 | Sun(09.27) |  |  | 
 
-| No | Title | Chapter |  Time(hour:min:sec) | 
+| Date | Title | Chapter |  Time(hour:min:sec) | 
 | :--: | :--: | :--: | :--: | 
 | Sat(09.26) |  |  |  | 
 | Sun(09.27) |  |  |  | 
