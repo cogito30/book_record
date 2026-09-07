@@ -32,10 +32,10 @@
 | Sat(09.12) |  |  |  
 | Sun(09.13) |  |  |  
 
-| No | Title | Begin | End |  Time(hour:min:sec) | Pass/Fail | 
-| :--: | :--: | :--: | :--: | :--: | :--: | 
-| Sat(09.12) |  |  |  |  |  | 
-| Sun(09.13) |  |  |  |  |  | 
+| No | Title | Chapter |  Time(hour:min:sec) | 
+| :--: | :--: | :--: | :--: | 
+| Sat(09.12) |  |  |  | 
+| Sun(09.13) |  |  |  | 
 
 
 ## 9월 3주차
