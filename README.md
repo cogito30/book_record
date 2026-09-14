@@ -1,8 +1,14 @@
 # 독서 기록
 
 ## Plan
+
+#### 7월/8월
 - (Min) 4 hour/day(weekend)
 - (Max) 6 hour/day(weekend)
+- 챕터별 주요 문장 요약
+
+#### 9월
+- (Min) 1 hour/day(week)
 - 챕터별 주요 문장 요약
 
 ## Book List
