@@ -7,7 +7,7 @@
 - (Max) 6 hour/day(weekend)
 - 챕터별 주요 문장 요약
 
-#### 9월
+#### 9월/10월
 - (Min) 1 hour/day(week)
 - 챕터별 주요 문장 요약
 
