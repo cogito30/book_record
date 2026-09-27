@@ -3,47 +3,130 @@
 ## Plan
 | No | Title | Author | Begin | End |  Check(✅) | 
 | :--: | :--: | :--: | :--: | :--: | :--: | 
-| 001 | 1784 | 조지 오웰 |  |  |  | 
-| 002 | 무리뉴. 그 남자의 기술 | 한준 |  |  |  | 
-| 003 | 구글은 어떻게 일하는가 | 에릭 슈미트 |  |  |  | 
+| 001 |  |  |  |  |  | 
 
 
 ## 10월 1주차
-- Term: 2026.10.03-2026.10.04
+- Term: 2026.09.28-2026.10.04
+- Result: 0🟢 0🔴
 
-| No | Title | Begin | End |  Time(hour:min:sec) | Pass/Fail | 
-| :--: | :--: | :--: | :--: | :--: | :--: | 
-| Sat(10.03) |  |  |  |  |  | 
-| Sun(10.04) |  |  |  |  |  | 
+| Date |  Total Time | Pass/Fail | 
+| :--: | :--: | :--: | 
+| Mon() |  |  |  
+| Tue() |  |  |  
+| Wed() |  |  |  
+| Thu() |  |  |  
+| Fri() |  |  |  
+| Sat() |  |  |  
+| Sun() |  |  | 
+
+| Date | Title | Chapter |  Time(hour:min:sec) | 
+| :--: | :--: | :--: | :--: | 
+| Mon() |  |  |  | 
+| Tue() |  |  |  | 
+| Wed() |  |  |  | 
+| Thu() |  |  |  | 
+| Fri() |  |  |  | 
+| Sat() |  |  |  | 
+| Sun() |  |  |  | 
+
 
 ## 10월 2주차
-- Term: 2026.10.10-2026.10.11
+- Term: 2026.10.05-2026.10.11
+- Result: 0🟢 0🔴
 
-| No | Title | Begin | End |  Time(hour:min:sec) | Pass/Fail | 
-| :--: | :--: | :--: | :--: | :--: | :--: | 
-| Sat(10.10) |  |  |  |  |  | 
-| Sun(10.11) |  |  |  |  |  | 
+| Date |  Total Time | Pass/Fail | 
+| :--: | :--: | :--: | 
+| Mon() |  |  |  
+| Tue() |  |  |  
+| Wed() |  |  |  
+| Thu() |  |  |  
+| Fri() |  |  |  
+| Sat() |  |  |  
+| Sun() |  |  | 
+
+| Date | Title | Chapter |  Time(hour:min:sec) | 
+| :--: | :--: | :--: | :--: | 
+| Mon() |  |  |  | 
+| Tue() |  |  |  | 
+| Wed() |  |  |  | 
+| Thu() |  |  |  | 
+| Fri() |  |  |  | 
+| Sat() |  |  |  | 
+| Sun() |  |  |  | 
+
 
 ## 10월 3주차
-- Term: 2026.10.17-2026.10.18
+- Term: 2026.10.12-2026.10.18
+- Result: 0🟢 0🔴
 
-| No | Title | Begin | End |  Time(hour:min:sec) | Pass/Fail | 
-| :--: | :--: | :--: | :--: | :--: | :--: | 
-| Sat(10.17) |  |  |  |  |  | 
-| Sun(10.18) |  |  |  |  |  | 
+| Date |  Total Time | Pass/Fail | 
+| :--: | :--: | :--: | 
+| Mon() |  |  |  
+| Tue() |  |  |  
+| Wed() |  |  |  
+| Thu() |  |  |  
+| Fri() |  |  |  
+| Sat() |  |  |  
+| Sun() |  |  | 
+
+| Date | Title | Chapter |  Time(hour:min:sec) | 
+| :--: | :--: | :--: | :--: | 
+| Mon() |  |  |  | 
+| Tue() |  |  |  | 
+| Wed() |  |  |  | 
+| Thu() |  |  |  | 
+| Fri() |  |  |  | 
+| Sat() |  |  |  | 
+| Sun() |  |  |  | 
+
 
 ## 10월 4주차
-- Term: 2026.10.24-2026.10.25
+- Term: 2026.10.19-2026.10.25
+- Result: 0🟢 0🔴
 
-| No | Title | Begin | End |  Time(hour:min:sec) | Pass/Fail | 
-| :--: | :--: | :--: | :--: | :--: | :--: | 
-| Sat(10.24) |  |  |  |  |  | 
-| Sun(10.25) |  |  |  |  |  | 
+| Date |  Total Time | Pass/Fail | 
+| :--: | :--: | :--: | 
+| Mon() |  |  |  
+| Tue() |  |  |  
+| Wed() |  |  |  
+| Thu() |  |  |  
+| Fri() |  |  |  
+| Sat() |  |  |  
+| Sun() |  |  | 
+
+| Date | Title | Chapter |  Time(hour:min:sec) | 
+| :--: | :--: | :--: | :--: | 
+| Mon() |  |  |  | 
+| Tue() |  |  |  | 
+| Wed() |  |  |  | 
+| Thu() |  |  |  | 
+| Fri() |  |  |  | 
+| Sat() |  |  |  | 
+| Sun() |  |  |  | 
+
 
 ## 10월 5주차
-- Term: 2026.10.31-2026.11.01
+- Term: 2026.10.26-2026.11.01
+- Result: 0🟢 0🔴
 
-| No | Title | Begin | End |  Time(hour:min:sec) | Pass/Fail | 
-| :--: | :--: | :--: | :--: | :--: | :--: | 
-| Sat(10.31) |  |  |  |  |  | 
-| Sun(11.01) |  |  |  |  |  | 
+| Date |  Total Time | Pass/Fail | 
+| :--: | :--: | :--: | 
+| Mon() |  |  |  
+| Tue() |  |  |  
+| Wed() |  |  |  
+| Thu() |  |  |  
+| Fri() |  |  |  
+| Sat(10.31) |  |  |  
+| Sun() |  |  | 
+
+| Date | Title | Chapter |  Time(hour:min:sec) | 
+| :--: | :--: | :--: | :--: | 
+| Mon() |  |  |  | 
+| Tue() |  |  |  | 
+| Wed() |  |  |  | 
+| Thu() |  |  |  | 
+| Fri() |  |  |  | 
+| Sat(10.31) |  |  |  | 
+| Sun() |  |  |  | 
+
